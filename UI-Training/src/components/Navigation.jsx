@@ -1,5 +1,11 @@
+import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
+import { useState } from 'react';
+
+
 function Navigation() {
-  return (
+  const brackets [isOpen]
+    return (
     <nav>
       <ul>
         <li>
